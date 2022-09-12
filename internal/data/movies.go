@@ -8,8 +8,8 @@ import (
 	"log"
 	"time"
 
-	"github.com/DataDavD/snippetbox/greenlight/internal/validator"
 	"github.com/lib/pq"
+	"github.com/sum28it/green-light/internal/validator"
 )
 
 // Movie type whose fields describe the movie.

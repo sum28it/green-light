@@ -10,8 +10,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/DataDavD/snippetbox/greenlight/internal/validator"
 	"github.com/julienschmidt/httprouter"
+	"github.com/sum28it/green-light/internal/validator"
 )
 
 // Define an envelope type.
